@@ -1,4 +1,4 @@
-package s_SingleResponsibilityPrinciple.complyWithRule
+package s_SingleResponsibilityPrinciple.details
 
 /*
     Tách lớp Student và Course thành hai lớp riêng,

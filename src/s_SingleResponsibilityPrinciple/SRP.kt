@@ -1,9 +1,9 @@
 package s_SingleResponsibilityPrinciple
 
-import s_SingleResponsibilityPrinciple.complyWithRule.Course
-import s_SingleResponsibilityPrinciple.complyWithRule.EnrollInput
-import s_SingleResponsibilityPrinciple.complyWithRule.EnrollOutput
-import s_SingleResponsibilityPrinciple.complyWithRule.Student
+import s_SingleResponsibilityPrinciple.details.Course
+import s_SingleResponsibilityPrinciple.details.EnrollInput
+import s_SingleResponsibilityPrinciple.details.EnrollOutput
+import s_SingleResponsibilityPrinciple.details.Student
 
 fun main() {
     var student = Student(1, "John", 22)

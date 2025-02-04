@@ -1,4 +1,4 @@
-package s_SingleResponsibilityPrinciple.complyWithRule
+package s_SingleResponsibilityPrinciple.details
 
 class EnrollInput(var enrollment: MutableMap<Student, MutableList<Course>>) {
     // region -- Methods --

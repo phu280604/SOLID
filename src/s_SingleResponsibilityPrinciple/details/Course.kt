@@ -1,4 +1,4 @@
-package s_SingleResponsibilityPrinciple.complyWithRule
+package s_SingleResponsibilityPrinciple.details
 
 class Course(var courseId: Int, var name: String) {
     // region -- Methods --
